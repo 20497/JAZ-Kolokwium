@@ -8,8 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import pjatk.edu.pl.jaz20497nbp.services.NbpService;
 
-import java.util.Date;
-
 @RestController
 @RequestMapping("/nbp")
 public class NbpRestController {
